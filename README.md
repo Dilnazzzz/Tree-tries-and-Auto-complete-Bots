@@ -1,4 +1,4 @@
-# Tree Tries and Auto-complete Bots
+# Tree Tries and Auto-Complete Bots
 
 Auto-completion functionalities are now ubiquitous in search engines, document editors, and messaging apps. Here, I built an auto-complete engine. 
 
